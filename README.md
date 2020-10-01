@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**fbraza/fbraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying as a Data Engineer student in the [Data ScienceTech Institute](https://www.datasciencetech.institute/)
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on [Linkedin](https://www.linkedin.com/in/faouzi-braza/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a scientist in Immunology who was jaleous of bioinformatic black witchers ! This pushed me to start learning code with Ruby and since then I am here :-)
--->
