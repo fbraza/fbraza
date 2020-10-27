@@ -7,5 +7,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project where I could add value and bring my motivation and proactivity to keep learning and improving
 - 🤔 I’m looking for help with topics regarding asynchronous programming with python, to learn nodejs and improve cloud computing knowledge
 - 📫 How to reach me: on [Linkedin](https://www.linkedin.com/in/faouzi-braza/)
+- :kimono:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was a scientist in Immunology who was jaleous of bioinformatic black witchers ! This pushed me to start learning code and trapped me in this path since :-)
