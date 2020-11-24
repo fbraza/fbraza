@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying as a Data Engineer student in the [Data ScienceTech Institute](https://www.datasciencetech.institute/)
 - 🌱 I’m currently learning and improving in Python & Scala programming, CI/CD, Git, Docker, Kubernetes, Hadoop, RDBMS & NoSQL, Data Anlysis and Machine learning
 - 👯 I’m looking to collaborate on any project where I could add value and bring my motivation and proactivity to keep learning and improving
