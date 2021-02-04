@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a consultant for the certer of exrptize in AI & Analytics in Altran Porutgal
+- 🔭 I’m currently working as a BigData inter in Adaltas (Paris, France)
 - 🌱 I’m currently learning and improving in Python & Scala programming, CI/CD, Git, Docker, Kubernetes, Hadoop, RDBMS & NoSQL, Data Anlysis and Machine learning
 - 👯 I’m looking to collaborate on any project where I could add value and bring my motivation and proactivity to keep learning and improving
 - 🤔 I’m looking for help with topics regarding asynchronous programming with python, to learn nodejs and improve cloud computing knowledge
