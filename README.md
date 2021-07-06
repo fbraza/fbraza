@@ -1,4 +1,4 @@
-### Hi there I am Faouzi a BigData Engineer in the way 👋
+### Hi there I am Faouzi a BigData Engineer 👋
 
 - :computer: I’m currently working as a BigData inter in Adaltas (Paris, France)
 - :mortar_board: Ex-academic researcher in Immunology I am finishing a master into data engineering @Data ScienceTech Institute
