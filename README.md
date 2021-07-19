@@ -3,8 +3,8 @@
 
 ## Hi there 👋 
 
-- I am Faouzi a Data Engineer from 🇫🇷, ex-academic researcher in Immunology (PhD) I also graduated in data engineering @ Data ScienceTech Institute
-- I currently work as a Data Engineer @ [DataRoots](https://dataroots.io/) (Leuven, in 🇧🇪)
+- PhD in Science and Msc in data engineering @ Data ScienceTech Institute
+- I am from 🇫🇷 but I currently work as a Data Engineer @ [DataRoots](https://dataroots.io/) in 🇧🇪
 
 ## Last blog article
 
