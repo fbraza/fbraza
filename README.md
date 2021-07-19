@@ -1,3 +1,6 @@
+![](assets/banner_GithubProfile.png)
+
+
 ### Hi there 👋 
 
 - :computer: I am Faouzi a Data Engineer from 🇫🇷 and I currently work as a Data Engineer @DataRoots (Leuven, in 🇧🇪)
