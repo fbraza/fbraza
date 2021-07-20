@@ -3,8 +3,9 @@
 
 ## Hi there 👋 
 
-- PhD in Science and Msc in data engineering @ Data ScienceTech Institute
-- I am from 🇫🇷 but I currently work as a Data Engineer @ [DataRoots](https://dataroots.io/) in 🇧🇪
+- PhD in Science @ Nantes university and worked as a scientist in 🇫🇷 , 🇩🇪 and 🇵🇹 
+- Msc in data engineering @ Data ScienceTech Institute
+- I work as a Data Engineer @ [DataRoots](https://dataroots.io/) in 🇧🇪
 
 ## Last blog article
 
