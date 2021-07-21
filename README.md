@@ -18,7 +18,8 @@ I am Faouzi from  🇫🇷. After almost 10 years of investigating the secret li
 - [Run a CI pipeline & publish your package to PiPy](https://fbraza.github.io/BrazLog/python/devops/2021/06/29/modern-python-part3.html)
 - [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
 
-## Github metrics
+## &#x1f4c8; Github metrics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza)](https://github.com/fbraza/README)
 
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
