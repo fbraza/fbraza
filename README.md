@@ -10,7 +10,7 @@ I am Faouzi from  🇫🇷. After almost 10 years of investigating the secret li
 - **MLOps:** DVC, MLFlow
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified)
-- >I am interested into making my way through JavaScript & NodeJs. I find JavaScript to be a very nice tool to master for automation, API and Data (Vizsualization).
+- >I am interested into making my way through the JavaScript ecosystem. I find JavaScript to be a very nice tool to master for automation, API and Data (Vizsualization).
 
 ## &#x270d; Last blog articles
 
