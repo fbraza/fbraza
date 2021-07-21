@@ -19,6 +19,7 @@ I am Faouzi from  🇫🇷. After almost 10 years of investigating the secret li
 - [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
 
 ## &#x1f4c8; Github metrics
+![Faouzi GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
 
 <!-- Link to icons -->
