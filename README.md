@@ -12,7 +12,7 @@ I use a blog to document my learning & professional journey in the field and if 
 - **MLOps:** DVC, MLFlow
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified)
-- >I am interested into making my way through the JavaScript ecosystem. I find JavaScript to be a very nice tool to master for automation, API and Data (Vizsualization).
+- **Ongoing Learning**: Async/IO programming with Python, Rust, Kafka, Azure Cloud
 
 ## &#x270d; Last blog articles
 
