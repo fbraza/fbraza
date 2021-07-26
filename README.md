@@ -2,7 +2,7 @@
 
 
 ## 👋 Hi there  
-I am Faouzi from  🇫🇷. After almost 10 years of investigating the secret life of our immune cells I try now to build and architect useful solutions for data-related challenges. I like to define myself as a Data Engineer with a sniff of DevOps. After having worked as a consultant inter at Adaltas I am today a Data Engineer consultant at Dataroots.
+I am Faouzi from 🇫🇷. After almost 10 years of investigating the secret life of our immune cells I try now to build and architect useful solutions for data-related challenges. I like to define myself as a Data Engineer with a sniff of DevOps. After having worked as a consultant inter at Adaltas I am today a Data Engineer consultant at Dataroots. In my spare time, I also practice ML and Data Analysis.
 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
@@ -12,7 +12,7 @@ I use a blog to document my learning & professional journey in the field and if 
 - **MLOps:** DVC, MLFlow
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified)
-- **Ongoing Learning**: Async/IO programming with Python, Rust, Kafka, Azure Cloud
+- **Ongoing Learning**: Async/IO programming with Python, FastAPI, JavaScript, Azure Cloud
 
 ## &#x270d; Last blog articles
 
