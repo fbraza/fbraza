@@ -2,7 +2,15 @@
 
 
 ## 👋 Hi there  
-I am Faouzi from 🇫🇷. After almost 10 years of investigating the secret life of our immune cells I try now to build and architect useful solutions for data-related challenges. I like to define myself as a Data Engineer with a sniff of DevOps. After having worked as a consultant intern at Adaltas, I am today a Data Engineer consultant at Dataroots. In my spare time, I like to do sport, try to keep my coding skills sharp and do some ML and Data Analysis.
+I am Faouzi from 🇫🇷. I caught data and coding fever.
+
+For several years, I thought that I will become an Academic Researcher in Immunology.  It was an appropriate goal. I was pretty excited by science and was passionate about our little immune cells.
+I could see them moving in my head ^_^ However after several years I kind of just felt meh. I wanted to
+learn more and something different, I was quite hooked by the black magic done on my own data by the bioinformaticians I worked with.
+
+And that's what happened. After my last postdoc, I just dedicated myself to learn how to code. I started with Ruby which has nothing to do with data analysis or bioinformatics. But the program I followed was just amazing and had permitted me to learn all the necessary fundamentals to move forward in my new career (Big up to the Launch School). Then I focused on Engineering and Data, entered a Master in the Data Engineering field, said "Hello" to Python, R, Java / Scala, and SQL, dive into DevOps methods, learn how to design, architect, and implement scalable and highly available data solutions both on-premise and on the cloud. Today, I am not seeing any immune cells in my head, just data flow!
+
+My specialties include "just in time" learning new skills and programming languages, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through NodeJs and Rust ecosystems.
 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
