@@ -20,10 +20,8 @@ I use a blog to document my learning & professional journey in the field and if 
 - [Run a CI pipeline & publish your package to PiPy](https://fbraza.github.io/BrazLog/python/devops/2021/06/29/modern-python-part3.html)
 - [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
 
-## &#x1f4c8; Github metrics
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook)](https://github.com/fbraza/README)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
