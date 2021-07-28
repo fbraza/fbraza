@@ -23,6 +23,15 @@ I use a blog to document my learning & professional journey in the field and if 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook)](https://github.com/fbraza/README)
 
 <!--START_SECTION:waka-->
+```text
+Week: 21 July, 2021 - 27 July, 2021
+
+Python       3 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.28 % 
+Markdown     2 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
+VimL         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- Link to icons -->
