@@ -22,6 +22,9 @@ I use a blog to document my learning & professional journey in the field and if 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook)](https://github.com/fbraza/README)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
