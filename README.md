@@ -24,15 +24,10 @@ I use a blog to document my learning & professional journey in the field and if 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbraza)](https://github.com/fbraza/github-readme-stats)
-
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
 <!-- links to your social media accounts -->
-
 [1]: https://twitter.com/braza_faouzi
 [2]: https://github.com/fbraza
 [3]: https://www.linkedin.com/in/faouzi-braza/
