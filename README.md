@@ -25,7 +25,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbraza&layout=compact)](https://github.com/fbraza/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbraza)](https://github.com/fbraza/github-readme-stats)
 
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
