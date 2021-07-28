@@ -21,9 +21,9 @@ I use a blog to document my learning & professional journey in the field and if 
 - [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
 
 ## &#x1f4c8; Github metrics
-![Faouzi GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
-[![Faouzi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbraza&layout=compact)](https://github.com/fbraza/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fbraza&hide=html,jupyter%20notebook&layout=compact)](https://github.com/fbraza/README)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fbraza&layout=compact)](https://github.com/fbraza/github-readme-stats)
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
