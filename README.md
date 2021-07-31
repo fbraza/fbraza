@@ -32,7 +32,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
 Python       3 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.28 % 
 Markdown     2 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
