@@ -20,7 +20,7 @@ I use a blog to document my learning & professional journey in the field and if 
 - **MLOps:** DVC, MLFlow
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified)
-- **Ongoing Learning**: Async/IO programming with Python, FastAPI, JavaScript, Azure Cloud
+- **Ongoing Learning**: JavaScript, Azure Cloud
 
 ## &#x270d; Last blog articles
 
