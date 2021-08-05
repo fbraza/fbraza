@@ -34,11 +34,11 @@ I use a blog to document my learning & professional journey in the field and if 
 ```text
 Week: 29 July, 2021 - 04 August, 2021
 
-Python       3 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.28 % 
-Markdown     2 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
-VimL         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-Other        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Git Config   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python     2 hrs 27 mins   █████████████████████▒░░░   85.52 % 
+Markdown   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 ```
 <!--END_SECTION:waka-->
 
