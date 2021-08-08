@@ -32,13 +32,10 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2021 - 06 August, 2021
+Week: 01 August, 2021 - 07 August, 2021
 
-Python     2 hrs 27 mins   █████████████████████▒░░░   85.52 % 
-Markdown   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Bash       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Python     2 hrs 54 mins   ███████████████████████░░   92.21 % 
+Markdown   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 <!--END_SECTION:waka-->
 
