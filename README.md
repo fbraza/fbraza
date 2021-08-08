@@ -21,7 +21,7 @@ I use a blog to document my learning & professional journey in the field and if 
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified)
 - **Ongoing Learning**: JavaScript, Azure Cloud
-- ![](https://www.codewars.com/users/fbraza/badges/large)
+- **Coding Challenge**: ![](https://www.codewars.com/users/fbraza/badges/small)
 
 ## &#x270d; Last blog articles
 
