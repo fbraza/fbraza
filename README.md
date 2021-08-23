@@ -31,7 +31,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2021 - 21 August, 2021
+Week: 16 August, 2021 - 22 August, 2021
 
 Scala        5 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.51 % 
 JavaScript   3 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 % 
