@@ -33,11 +33,11 @@ I use a blog to document my learning & professional journey in the field and if 
 ```text
 Week: 18 August, 2021 - 24 August, 2021
 
-Scala        5 hrs 40 mins   ███████████░░░░░░░░░░░░░░   43.51 % 
-JavaScript   3 hrs 38 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-CSS          1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Python       42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JavaScript   8 hrs 16 mins   █████████████████▓░░░░░░░   70.44 % 
+Python       1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Scala        1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+VimL         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 <!--END_SECTION:waka-->
 
