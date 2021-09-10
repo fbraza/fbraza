@@ -30,13 +30,13 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 August, 2021 - 03 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
-JavaScript   8 hrs 16 mins   █████████████████▓░░░░░░░   70.44 % 
-Python       1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Scala        1 hr 23 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-VimL         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript   6 hrs 36 mins   ████████████████████▓░░░░   83.27 % 
+Markdown     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Python       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JSON         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
