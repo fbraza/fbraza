@@ -30,7 +30,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 September, 2021 - 14 September, 2021
+Week: 09 September, 2021 - 15 September, 2021
 
 JavaScript   6 hrs 36 mins   ████████████████████▓░░░░   83.27 % 
 Markdown     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
