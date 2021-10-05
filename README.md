@@ -30,7 +30,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 03 October, 2021
+Week: 28 September, 2021 - 04 October, 2021
 
 Python     8 hrs 47 mins   ████████████████▒░░░░░░░░   65.84 % 
 TOML       2 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
