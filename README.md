@@ -30,7 +30,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 05 November, 2021 - 11 November, 2021
 
 Scala      8 hrs 27 mins   █████████████████████████   99.98 % 
 ```
