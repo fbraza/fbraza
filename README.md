@@ -1,6 +1,3 @@
-![](assets/banner_GithubProfile.png)
-
-
 ## 👋 Hi there  
 I am Faouzi from 🇫🇷. I caught data and coding fever.
 
