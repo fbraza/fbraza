@@ -1,18 +1,12 @@
 ## 👋 Hi there  
-I am Faouzi from 🇫🇷. I caught data and coding fever.
+I am Faouzi from 🇫🇷. I am a scientist in Immunology (PhD) and a data engineer.
 
-For several years, I thought that I will become an Academic Researcher in Immunology.  It was an appropriate goal. I was pretty excited by science and was passionate about our little immune cells.
-I could see them moving in my head ^_^ However after several years I kind of just felt meh. I wanted to
-learn more and something different, I was quite hooked by the black magic done on my own data by the bioinformaticians I worked with.
-
-And that's what happened. After my last postdoc, I just dedicated myself to learn how to code. I started with Ruby which has nothing to do with data analysis or bioinformatics. But the program I followed was just amazing and had permitted me to learn all the necessary fundamentals to move forward in my new career (Big up to the Launch School). Then I focused on Engineering and Data, entered a Master in the Data Engineering field, said "Hello" to Python, R, Java / Scala, and SQL, dive into DevOps methods, learn how to design, architect, and implement scalable and highly available data solutions both on-premise and on the cloud.
-
-My specialties include "just in time" learning new skills and programming languages, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through Python, JavaScript and Scala ecosystems.
+My specialties include "just in time" learning, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through the Python and Scala ecosystems. In the future I wish to learn and dig more into Go and Clojure.
 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
 ## 🔧 Languages, technologies and tools I am experienced with
-- **Languages:** Python, Scala, Ruby, JavaScript, SQL
+- **Languages:** Python, Scala, SQL
 - **DevOps:** Git, Docker, Kubernetes (CKAD certified), Ansible
 - **MLOps:** DVC, MLFlow
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
