@@ -1,7 +1,7 @@
 ## 👋 Hi there  
 I am Faouzi from 🇫🇷. I am a scientist in Immunology (PhD) and a data engineer.
 
-My specialties include "just in time" learning, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through the Python and Scala ecosystems. In the future I wish to learn and dig more into Go and Clojure.
+My specialties include "just in time" learning, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through the Python and Scala ecosystems. In the future I wish to learn and dig more into Rust.
 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
