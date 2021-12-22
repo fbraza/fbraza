@@ -21,7 +21,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 Scala      8 hrs 27 mins   █████████████████████████   99.98 % 
 ```
