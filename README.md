@@ -21,7 +21,7 @@ I use a blog to document my learning & professional journey in the field and if 
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
 Total: 8 hrs 27 mins
 
