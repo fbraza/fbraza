@@ -20,11 +20,11 @@ I use a blog to document my learning & professional journey in the field and if 
 - [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Scala      8 hrs 27 mins   █████████████████████████   99.98 % 
+```text
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <!-- Link to icons -->
