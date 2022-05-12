@@ -6,7 +6,7 @@ My specialties include "just in time" learning, problem-solving, designing, and 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
 ## 🔧 Languages, technologies and tools I am experienced with
-- **Languages:** Python, Scala, SQL
+- **Languages:** Python, Scala, SQL, R
 - **DevOps:** Git, Docker, Kubernetes (CKAD certified), Ansible
 - **MLOps:** Metaflow, MLFlow, Dagster
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
