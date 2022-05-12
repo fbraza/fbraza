@@ -8,7 +8,7 @@ I use a blog to document my learning & professional journey in the field and if 
 ## 🔧 Languages, technologies and tools I am experienced with
 - **Languages:** Python, Scala, SQL
 - **DevOps:** Git, Docker, Kubernetes (CKAD certified), Ansible
-- **MLOps:** DVC, MLFlow
+- **MLOps:** Metaflow, MLFlow, Dagster
 - **Big Data:** Hadoop (Hive, Spark, Hbase, Freeipa, Delta lake, Apache Hudi), DataBricks (Spark 3.0 developer certified)
 - **Cloud:** Google Cloud Platform (Data engineer certified), Azure Cloud (Data Engineer Certified)
 - **Coding Challenge**: I spend some time on the CodeSignal platform to train on Algorithms and Problem solving. [Here](https://app.codesignal.com/profile/fbraza) my profile if you want to connect.
