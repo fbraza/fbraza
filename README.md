@@ -22,7 +22,7 @@ I use a blog to document my learning & professional journey in the field and if 
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
+From: 17 June 2022 - To: 24 June 2022
 
 Python   5 mins          █████████████████████████   100.00 %
 ```
