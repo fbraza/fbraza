@@ -22,7 +22,9 @@ I use a blog to document my learning & professional journey in the field and if 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 August 2022 - To: 13 August 2022
+
+Python   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
