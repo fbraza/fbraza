@@ -15,17 +15,9 @@ I use a blog to document my learning & professional journey in the field and if 
 
 ## &#x270d; Last blog articles
 
-- [Guide for optimizing performance in Spark](https://fbraza.github.io/BrazLog/spark/python/scala/2021/07/08/spark-optimization.html)
-- [Run a CI pipeline & publish your package to PiPy](https://fbraza.github.io/BrazLog/python/devops/2021/06/29/modern-python-part3.html)
-- [write unit tests & enforce Git commit conventions](https://fbraza.github.io/BrazLog/python/devops/2021/06/24/modern-python-part2.html)
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+- [Modern Python part 4: facing reality](https://fbraza.github.io/fbraza-github-pages/modern-python-part4/)
+- [Own your metadata with metadata hubs](https://fbraza.github.io/fbraza-github-pages/own-your-metadata/)
+- [Installation of Scanpy on a Mac M1](https://fbraza.github.io/fbraza-github-pages/install-scanpy/)
 
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
