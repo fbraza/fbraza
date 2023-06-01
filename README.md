@@ -1,5 +1,5 @@
 ## 👋 Hi there  
-I am Faouzi from 🇫🇷. I am a scientist in Immunology (PhD) and a data engineer.
+I am Faouzi from 🇫🇷. I am a scientist in Immunology (PhD) and a ML engineer.
 
 My specialties include "just in time" learning, problem-solving, designing, and implementing data pipelines and architectures. I like to define myself as a data engineer with a sniff of DevOps. I keep polishing my coding skills in Python and Scala through the development of personal libraries or personal data analysis projects, and I try to make my way through the Python and Scala ecosystems. In the future I wish to learn and dig more into Rust and Haskell.
 
