@@ -7,9 +7,10 @@ I use a blog to document my learning & professional journey in the field and if 
 
 ## 🔧 Languages, technologies and tools I am experienced with
 - **Languages:** Python, Scala, SQL, R, dart/Flutter
-- **DevOps:** Git, Docker, Ansible
+- **DevOps:** Git, Docker, Ansible, Sentry, Github Workflow, Bitbucket pipelines
 - **MLOps:** Metaflow, MLFlow, Vertex.ai
-- **Cloud:** Google Cloud
+- **Cloud:** Google Cloud (Cloud function, Cloud Run, Compute Engine, Vertex.ai)
+- **Data:** Airflow, Apache Superset, DBT, Spark, RDBMS (Postgre & MySQL)
 
 ## &#x270d; Last blog articles
 
