@@ -6,7 +6,7 @@ My specialties include "just in time" learning, problem-solving, designing, and 
 I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
 
 ## 🔧 Languages, technologies and tools I am experienced with
-- **Languages:** Python, Scala, SQL, dabbled with Dart/Flutter, Javascript, Ruby, Crystal
+- **Languages:** worked with Python, Scala, SQL, and have been exposed to Go, Ruby, Crystal
 - **DevOps:** Git, Docker, Ansible, Sentry, Github Workflow, Bitbucket pipelines
 - **MLOps:** Metaflow, MLFlow, Vertex.ai, DVC, SageMaker
 - **Cloud:** Google Cloud (Cloud function, Cloud Run, Compute Engine, Vertex.ai), AWS (EC2, Cloud Builld, AWS SDK Python, Step Functions, Glue Jobs)
