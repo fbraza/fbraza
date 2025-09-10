@@ -20,3 +20,7 @@ I am Faouzi. I am a scientist in Immunology (PhD) and a software / ML engineer. 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/braza_faouzi
 [2]: https://github.com/fbraza
+
+## Score
+
+[![fbraza's GitHub stats](https://github-readme-stats.vercel.app/api?username=fbraza)](https://github.com/anuraghazra/github-readme-stats)
