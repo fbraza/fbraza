@@ -23,5 +23,5 @@ I am Faouzi. I am a scientist in Immunology (PhD) and a software / ML engineer. 
 
 ## Score
 
-![fbraza's GitHub stats](https://github-readme-stats-lilac-theta-847juf1697.vercel.app/api/top-langs/?username=fbraza&count_private=true)
+![fbraza's GitHub stats](https://github-readme-stats-lilac-theta-847juf1697.vercel.app/api/?username=fbraza&count_private=true)
 
