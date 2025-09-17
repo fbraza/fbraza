@@ -3,6 +3,7 @@ I’m Faouzi a developer with the soul of a scientist. My path? Unconventional, 
 
 >**For recruiters**: if you are here thank loads for taking the time to check my github. If you want to know more about me, my history and trajectory. Please feel free to read this [blog post](https://fbraza.github.io/2025/08/24/career_garden/#An-interesting-detour-in-a-think-tank). I talked about the reason of my career switch and my professional experience. I also tried to summarize what I am looking for my next missions :-) Hope this will spark nice conversations if we meet. cheers.
 
+## [My CV](https://drive.google.com/file/d/1RnL2i_DTQS4FZNPuXQn_M9BCttacDfpl/view?usp=drive_link)
 
 ## 🔧 Languages, technologies and tools I am experienced with
 - **Languages:** worked with Python, Scala, SQL, and have been exposed to javascript and Ruby
@@ -12,11 +13,11 @@ I’m Faouzi a developer with the soul of a scientist. My path? Unconventional, 
 - **Data:** Airflow, Apache Superset, Spark, RDBMS (Postgre & MySQL), dagster
 - **AI Agents / IDE:** Claude Code, Opencode, Zed, VS Code, NeoVim (NvChad) 
 
-## &#x270d; Last blog articles
+## &#x270d; Last technical blog articles
 
-- [Spec as code](https://fbraza.github.io/2025/07/09/specs-as-code/)
-- [Google Vertex.AI overview](https://fbraza.github.io/2023/09/30/overview-of-vertexai/)
-- [Using partial in Python](https://fbraza.github.io/2023/09/30/using-partial/)
+- [A brief overview to arrays and stacks ](https://fbraza.github.io/2025/09/14/algo-arrays/)
+- [When your Python code needs to understand itself](https://fbraza.github.io/2025/08/08/type_introspection/)
+- [Solving the "Optional Fields Problem" in Python with Refined Types ](https://fbraza.github.io/2025/07/31/refined_types_article/)
 
 <!-- Link to icons -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
