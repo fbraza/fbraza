@@ -1,12 +1,16 @@
 ## 👋 Hi there  
-I am Faouzi. I am a scientist in Immunology (PhD) and a software / ML engineer. I use a blog to document my learning & professional journey in the field and if you feel like you want to contact me, you can find me on [![Twitter][1.2]][1] or here on [![Github][2.2]][2].
+I’m Faouzi a developer with the soul of a scientist. My path? Unconventional, by design. Ten years in immunology research taught me how to ask hard questions. Four years in ML and data engineering taught me how to build answers that scale on AWS, on GCP, in production, for real users. A detour in a thin tank exposed me to the world of policy and influence. I’m now seeking my next software engineering role. I would love to meet inspiring people, learn from them and build products that matters.
+
+>**For recruiters**: if you are here thank loads for taking the time to check my github. If you want to know more about me, my history and trajectory. Please feel free to read this [blog post](https://fbraza.github.io/2025/08/24/career_garden/#An-interesting-detour-in-a-think-tank). I talked about the reason of my career switch and my professional experience. I also tried to summarize what I am looking for my next missions :-) Hope this will spark nice conversations in we meet. cheers.
+
 
 ## 🔧 Languages, technologies and tools I am experienced with
-- **Languages:** worked with Python, Scala, SQL, and have been exposed to javascript, Ruby, Crystal
+- **Languages:** worked with Python, Scala, SQL, and have been exposed to javascript and Ruby
 - **DevOps:** Git, Docker, Ansible, Github Workflow, Bitbucket pipelines
 - **MLOps:** Metaflow, MLFlow, Vertex.ai, SageMaker
 - **Cloud:** Google Cloud (Cloud function, Cloud Run, Compute Engine, Vertex.ai), AWS (EC2, Cloud Builld, AWS SDK Python, Step Functions, Glue Jobs)
 - **Data:** Airflow, Apache Superset, Spark, RDBMS (Postgre & MySQL), dagster
+- **AI Agents / IDE:** Claude Code, Opencode, Zed, VS Code, NeoVim (NvChad) 
 
 ## &#x270d; Last blog articles
 
