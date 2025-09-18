@@ -1,7 +1,7 @@
 ## 👋 Hi there ([My CV](https://drive.google.com/file/d/1RnL2i_DTQS4FZNPuXQn_M9BCttacDfpl/view?usp=drive_link))
 I’m Faouzi a developer with the soul of a scientist. My path? Unconventional, by design. Ten years in immunology research taught me how to ask hard questions. Four years in ML and data engineering taught me how to build answers that scale on AWS, on GCP, in production, for real users. A detour in a thin tank exposed me to the world of policy and influence. I’m now seeking my next software engineering role. I would love to meet inspiring people, learn from them and build products that matters.
 
->**For recruiters**: if you are here thank loads for taking the time to check my github. If you want to know more about me, my history and trajectory. Please feel free to read this [blog post](https://fbraza.github.io/2025/08/24/career_garden/#An-interesting-detour-in-a-think-tank). I talked about the reason of my career switch and my professional experience. I also tried to summarize what I am looking for my next missions :-) Hope this will spark nice conversations if we meet. cheers.
+>**For recruiters**: if you are here thank loads for taking the time to check my github. If you want to know more about me, my history and trajectory. Please feel free to read this [blog post](https://fbraza.github.io/2025/08/24/career_garden/). I talked about the reason of my career switch and my professional experience. I also tried to summarize what I am looking for my next missions :-) Hope this will spark nice conversations if we meet. cheers.
 
 ## 🔧 Languages, technologies and tools I am experienced with
 - **Languages:** worked with Python, Scala, SQL, and have been exposed to javascript and Ruby
